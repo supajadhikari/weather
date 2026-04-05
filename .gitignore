@@ -1,0 +1,22 @@
+.env
+*.env
+secrets.py
+.venv/
+venv/
+ENV/
+env/
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+# --- OS SPECIFIC ---
+# Debian/Linux clutter
+.DS_Store
+.directory
+*.swp
+*~
